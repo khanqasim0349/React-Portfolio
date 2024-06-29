@@ -1,0 +1,35 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/js.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.jpg"
+    },
+
+    {
+      "title": "Laravel",
+      "imageSrc": "skills/laravel.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.jpeg"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    }
+  ]

@@ -1,0 +1,23 @@
+[
+    {
+      "key": 1,
+      "title": "React Amazon-Clone",
+      "imageSrc": "projects/amazon.jpeg",
+      "description": "This is a project made with complete React js.",
+      "source": "https://github.com/khanqasim0349/AmazonClone"
+    },
+    {
+      "key": 2,
+      "title": "Crud Application",
+      "imageSrc": "projects/crud.jpeg",
+      "description": "This is a project made with complete Laravel.",
+      "source": "https://github.com/khanqasim0349/LaravelCrudApplication"
+    },
+    {
+      "key": 3,
+      "title": "Weather Application",
+      "imageSrc": "projects/weather.png",
+      "description": "This is a project made with HTML, CSS and Javascript.",
+      "source": "https://github.com/khanqasim0349/MyWeatherApplication"
+    }
+  ]

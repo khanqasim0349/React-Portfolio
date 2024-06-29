@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "role": "Laravel developer",
+      "organisation": "Flair-marketplace",
+      "startDate": "Feb, 2024",
+      "endDate": "April,2024",
+      "experiences": [
+        "Worked on Api Documentation"
+      ]
+    }
+  ]
